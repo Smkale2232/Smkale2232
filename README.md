@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Landing my first job<br>🌱 I’m currently learning Go
+🤝 I’m looking for help with Landing my first job<br>🌱 I’m currently learning Machin Learning
 
 
 ## 🌐 Socials:
